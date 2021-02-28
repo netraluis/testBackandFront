@@ -1,4 +1,4 @@
-.substitut__border {
+.substitut-border {
   padding: 20px;
   margin: 40px;
   border: 1px solid #dddcdc;
@@ -10,24 +10,24 @@
 }
 
 
-.substitut__details ul {
+.substitut-details ul {
   list-style: none;
   width: 90%;
   margin: 0 auto;
 }
 
-.substitut__details ul li {
+.substitut-details ul li {
   text-align: center;
   font-size: 1.5rem;
   padding: 1rem;
   display: flex;
   flex-direction: row;
 }
-.substitut__details ul li div{
+.substitut-details ul li div{
   width: 50%;
 }
 
 
-.substitut__details ul li:not(:last-child) {
+.substitut-details ul li:not(:last-child) {
   border-bottom: 1px solid black;
 }

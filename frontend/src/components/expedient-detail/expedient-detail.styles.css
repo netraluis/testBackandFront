@@ -1,4 +1,4 @@
-.expedient__details {
+.expedient-details {
   border: 1px solid #dddcdc;
   padding: 20px;
   margin: 40px;
@@ -6,13 +6,13 @@
   border-radius: 7px;
 }
 
-.expedient__details ul {
+.expedient-details ul {
   list-style: none;
   width: 90%;
   margin: 0 auto;
 }
 
-.expedient__details ul li {
+.expedient-details ul li {
   text-align: center;
   font-size: 1.5rem;
   padding: 1rem;
@@ -20,11 +20,11 @@
   flex-direction: row;
 }
 
-.expedient__details ul li div {
+.expedient-details ul li div {
   width: 50%;
 }
 
-.expedient__details ul li:not(:last-child) {
+.expedient-details ul li:not(:last-child) {
   border-bottom: 1px solid black;
 }
 .value-color{

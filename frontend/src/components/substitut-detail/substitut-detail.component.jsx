@@ -29,9 +29,9 @@ const SubstitutDetail = (props) => {
     return <div>Loading...</div>;
   } else {
     return (
-      <div className = "substitut__border">
+      <div className = "substitut-border">
       <img src="http://placeimg.com/640/480/people" alt="Lamp" width="320" height="240"></img>
-      <div className="substitut__details">
+      <div className="substitut-details">
         <ul>
           <li>
             <div>Name</div>

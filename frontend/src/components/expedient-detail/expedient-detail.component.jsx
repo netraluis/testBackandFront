@@ -26,7 +26,7 @@ const ExpedientDetail = (props) => {
       return <div>Loading...</div>;
     } else {
       return (
-              <div className="expedient__details">
+              <div className="expedient-details">
                 <ul>
                   <li><div>Hearing_date</div><div className = "value-color">{item.hearing_date ? item.hearing_date.split(" ").slice(0,4).join(' '):''}</div></li>
                   <li><div>Resume</div><div className = "value-color">{item.resume}</div></li>

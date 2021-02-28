@@ -1,1 +1,104 @@
-{"expedients":[{"id":1,"hearing_date":"Tue Jun 22 2021 14:46:51 GMT+0200 (Central European Summer Time)","resume":"Altenwerth and Sons","dificulty":2,"judicial_party":"Barcelona","description":"Eum at ipsam quae veniam. Dolorem nesciunt aperiam asperiores perspiciatis. Ipsam aspernatur rerum explicabo perferendis velit natus rerum distinctio exercitationem."},{"id":2,"hearing_date":"Sat Jan 15 2022 00:16:45 GMT+0100 (Central European Standard Time)","resume":"Konopelski Group","dificulty":4,"judicial_party":"Madrid","description":"Eum at ipsam quae veniam. Dolorem nesciunt aperiam asperiores perspiciatis. Ipsam aspernatur rerum explicabo perferendis velit natus rerum distinctio exercitationem."},{"id":3,"hearing_date":"Mon Sep 13 2021 12:21:37 GMT+0200 (Central European Summer Time)","resume":"Barrows Inc","dificulty":1,"judicial_party":"Hospitalet","description":"Eum at ipsam quae veniam. Dolorem nesciunt aperiam asperiores perspiciatis. Ipsam aspernatur rerum explicabo perferendis velit natus rerum distinctio exercitationem."},{"id":4,"hearing_date":"Sat Jan 15 2022 00:16:45 GMT+0100 (Central European Standard Time)","resume":"Clara Group","dificulty":4,"judicial_party":"Madrid","description":"Eum at ipsam quae veniam. Dolorem nesciunt aperiam asperiores perspiciatis. Ipsam aspernatur rerum explicabo perferendis velit natus rerum distinctio exercitationem."},{"id":5,"hearing_date":"Tue Mar 02 2021 01:00:00 GMT+0100 (Central European Standard Time)","resume":"xdfgdfg","dificulty":"2","judicial_party":"Madrid","description":"gdfgdfg"}],"substitutes":[{"id":1,"name":"Jordan","last_name":"Hoeger","phone":"527-455-7076","image":"http://placeimg.com/640/480/people","judicial_party":["Barcelona","Hospitalet"]},{"id":2,"name":"Maci","last_name":"Swaniawski","phone":"(443) 343-7102","image":"http://placeimg.com/640/480/people","judicial_party":["Madrid"]},{"id":3,"name":"Damian","last_name":"Lehner","phone":"(334) 939-5671","image":"http://placeimg.com/640/480/people","judicial_party":["Barcelona","Madrid"]},{"id":4,"name":"Vida","last_name":"Purdy","phone":"628-946-7761 x49695","image":"http://placeimg.com/640/480/people","judicial_party":["Barcelona","Hospitalet","Madrid"]},{"id":5,"name":"Gerda","last_name":"Willms","phone":"(798) 617-5744 x78713","image":"http://placeimg.com/640/480/people","judicial_party":["Hospitalet","Madrid"]},{"id":6,"name":"Jordan","last_name":"Hoeger","phone":"527-455-7076","image":"http://placeimg.com/640/480/people","judicial_party":["Barcelona","Hospitalet"]},{"id":7,"name":"manolo","last_name":"Hoeger","phone":"527-455-7076","image":"http://placeimg.com/640/480/people","judicial_party":["Barcelona","Hospitalet"]},{"id":8,"name":"manolo","last_name":"Hoeger","phone":"527-455-7076","image":"http://placeimg.com/640/480/people","judicial_party":["Barcelona","Hospitalet"]},{"id":9,"name":"probandoPostman","last_name":"Hoeger","phone":"527-455-7076","image":"http://placeimg.com/640/480/people","judicial_party":["Barcelona","Hospitalet"]},{"id":10,"name":"Netra-Luis","last_name":"Castells","phone":"6600660","judicial_party":["Madrid"]},{"id":11,"name":"Netra-Luis","last_name":"Castells","phone":"6600660","judicial_party":["Madrid"," Badajoz"]}]}
+{
+    "expedients": [
+        {
+            "id": 1,
+            "hearing_date": "Tue Jun 22 2021 14:46:51 GMT+0200 (Central European Summer Time)",
+            "resume": "Altenwerth and Sons",
+            "dificulty": 2,
+            "judicial_party": "Barcelona",
+            "description": "Eum at ipsam quae veniam. Dolorem nesciunt aperiam asperiores perspiciatis. Ipsam aspernatur rerum explicabo perferendis velit natus rerum distinctio exercitationem."
+        },
+        {
+            "id": 2,
+            "hearing_date": "Sat Jan 15 2022 00:16:45 GMT+0100 (Central European Standard Time)",
+            "resume": "Konopelski Group",
+            "dificulty": 4,
+            "judicial_party": "Madrid",
+            "description": "Eum at ipsam quae veniam. Dolorem nesciunt aperiam asperiores perspiciatis. Ipsam aspernatur rerum explicabo perferendis velit natus rerum distinctio exercitationem."
+        },
+        {
+            "id": 3,
+            "hearing_date": "Mon Sep 13 2021 12:21:37 GMT+0200 (Central European Summer Time)",
+            "resume": "Barrows Inc",
+            "dificulty": 1,
+            "judicial_party": "Hospitalet",
+            "description": "Eum at ipsam quae veniam. Dolorem nesciunt aperiam asperiores perspiciatis. Ipsam aspernatur rerum explicabo perferendis velit natus rerum distinctio exercitationem."
+        },
+        {
+            "id": 4,
+            "hearing_date": "Sat Jan 15 2022 00:16:45 GMT+0100 (Central European Standard Time)",
+            "resume": "Clara Group",
+            "dificulty": 4,
+            "judicial_party": "Madrid",
+            "description": "Eum at ipsam quae veniam. Dolorem nesciunt aperiam asperiores perspiciatis. Ipsam aspernatur rerum explicabo perferendis velit natus rerum distinctio exercitationem."
+        }
+    ],
+    "substitutes": [
+        {
+            "id": 1,
+            "name": "Jordan",
+            "last_name": "Hoeger",
+            "phone": "527-455-7076",
+            "image": "http://placeimg.com/640/480/people",
+            "judicial_party": [
+                "Barcelona",
+                "Hospitalet"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Maci",
+            "last_name": "Swaniawski",
+            "phone": "(443) 343-7102",
+            "image": "http://placeimg.com/640/480/people",
+            "judicial_party": [
+                "Madrid"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Damian",
+            "last_name": "Lehner",
+            "phone": "(334) 939-5671",
+            "image": "http://placeimg.com/640/480/people",
+            "judicial_party": [
+                "Barcelona",
+                "Madrid"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Vida",
+            "last_name": "Purdy",
+            "phone": "628-946-7761 x49695",
+            "image": "http://placeimg.com/640/480/people",
+            "judicial_party": [
+                "Barcelona",
+                "Hospitalet",
+                "Madrid"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Gerda",
+            "last_name": "Willms",
+            "phone": "(798) 617-5744 x78713",
+            "image": "http://placeimg.com/640/480/people",
+            "judicial_party": [
+                "Hospitalet",
+                "Madrid"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Jordan",
+            "last_name": "Hoeger",
+            "phone": "527-455-7076",
+            "image": "http://placeimg.com/640/480/people",
+            "judicial_party": [
+                "Barcelona",
+                "Hospitalet"
+            ]
+        }
+    ]
+}
